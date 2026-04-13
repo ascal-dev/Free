@@ -88,3 +88,8 @@ https://github.com/ranapk73/BDIX ----movies
 
 
 https://raw.githubusercontent.com/143maha/Sonuiptvnew/main/tv.adult.m3u
+
+
+https://perelive.pages.dev/jiotv.m3u
+
+https://zio.vodep39240327.workers.dev/
